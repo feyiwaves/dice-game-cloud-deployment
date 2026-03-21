@@ -27,7 +27,7 @@ GitHub Actions* automates deployment
  1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/dice-game-cloud-deployment.git
+git clone https://github.com/feyiwaves/dice-game-cloud-deployment.git
 cd dice-game-cloud-deployment
 ```
 
