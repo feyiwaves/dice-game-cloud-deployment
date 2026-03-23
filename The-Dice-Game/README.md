@@ -8,7 +8,7 @@ This project demonstrates the deployment of a static web application (Dice Game)
 
 # CloudFront URL: https://d19i8blrxsc1k2.cloudfront.net
 
-## Architecture
+# Architecture
 
 The application follows a standard static hosting architecture:
 
