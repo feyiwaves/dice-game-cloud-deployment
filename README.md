@@ -6,7 +6,7 @@ This project demonstrates the deployment of a static web application (Dice Game)
 
 # Live Demo
 
-# CloudFront URL: https://d19i8blrxsc1k2.cloudfront.net
+# CloudFront URL: d11ge5pyebw61o.cloudfront.net
 
 # Architecture
 
